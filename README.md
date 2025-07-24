@@ -26,7 +26,7 @@
   </a>
 
   <a href="https://www.hackerrank.com/profile/riyagarg0106" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" />
   </a>
 </p>
 
