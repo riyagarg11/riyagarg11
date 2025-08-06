@@ -1,12 +1,5 @@
-<h1 align="center"><strong>Riya Garg</strong></h1>
+<h1 align="center">A passionate computer science student</h1>
 
-<p align="center">
-  <strong>
-    <span style="font-size: 100px;">
-      A passionate Computer Science student
-    </span>
-  </strong>
-</p>
 
 
 
